@@ -7,6 +7,6 @@ IT student at King mongkut's university of technology thonburi
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nxts0&theme=aura_dark)
 
 ### 🔝 Top Contributed Repo
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nxts0&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nxts0&theme=aura)
 
 
